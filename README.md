@@ -5,7 +5,7 @@ A simple tool to fully update and upgrade your system with a single command—ze
 
 upgrade-to-full-archcraft.sh is a simple and reliable tool to fully update and upgrade your system with a single command—zero errors guaranteed.
 
-Features
+# Features
 
 Full System Update & Upgrade – Keep your system secure and up-to-date effortlessly.
 
@@ -19,20 +19,20 @@ Simple GUI Option Selector – Choose your preferred mode easily through a frien
 
 Advanced Mode – May take 5–10 minutes and will reboot into a Linux screen. Don’t worry—just press Enter on your current OS (or the default one if unsure).
 
-Usage
+# Usage
 
-Download the script:
+# Download the script:
 ' git clone https://github.com/D3LTA2033/archcraft-full-upg.git '
 
 ' cd archcraft-full-upg '
 
-Make the script executable:
+# Make the script executable:
 ' chmod +x upgrade-to-full-archcraft.sh '
 
-Run the script:
+# Run the script:
 ' ./upgrade-to-full-archcraft.sh '
 
-Use the GUI to select your desired option (with backup or without).
+# Use the GUI to select your desired option (with backup or without).
 
 Follow the on-screen instructions.
 
