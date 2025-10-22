@@ -23,6 +23,7 @@ Usage
 
 Download the script:
 ' git clone https://github.com/D3LTA2033/archcraft-full-upg.git '
+
 ' cd archcraft-full-upg '
 
 Make the script executable:
