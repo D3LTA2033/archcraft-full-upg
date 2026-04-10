@@ -5,7 +5,7 @@
 set -e
 
 echo "==============================================================="
-echo "        Archcraft Ultra-Deep System Maintenance Tool"
+echo "        Arch System Maintenance Tool"
 echo "        By 0b.livion (Discord: 0b.livion)"
 echo "==============================================================="
 echo ""
