@@ -6,7 +6,7 @@ set -e
 
 echo "==============================================================="
 echo "        Arch System Maintenance Tool"
-echo "        By 0b.livion (Discord: 0b.livion)"
+echo "        By 0b.livion (Discord: 0b.livion) New account: @mcs.s "
 echo "==============================================================="
 echo ""
 echo "[1] Full deep upgrade WITH backup"
