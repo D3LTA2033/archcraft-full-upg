@@ -1,6 +1,6 @@
 #!/bin/bash
-# Archcraft Ultra-Deep System Upgrade & Maximum Maintenance Script
-# Credits: script by 0b.livion (Discord: 0b.livion)
+# Archcraft System Upgrade & Maximum Maintenance Script
+# Credits: script by 0b.livion (Discord: 0b.livion) (New discord: @mcs.s)
 
 set -e
 
